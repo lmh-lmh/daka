@@ -24,9 +24,11 @@
 
 ---
 
-## 安装
+## 下载安装
 
-从 [Releases](../../releases) 下载最新的 `daka-x.y.apk`（约 55 MB）。
+**直接下载 APK**：[daka-v4.1.apk](https://github.com/lmh-lmh/daka/releases/download/v4.1/daka-v4.1.apk)（55 MB）
+
+全部版本见 [Releases](https://github.com/lmh-lmh/daka/releases)。
 
 - 需要 **Android 8.0+**（minSdk 26）
 - 小米/红米如果提示「已禁止安装」，去 `设置 → 更多设置 → 开发者选项` 打开「USB 安装」，或用文件管理器点开 APK 选「继续安装」
